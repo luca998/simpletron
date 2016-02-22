@@ -2,7 +2,7 @@
 #define MEMORY_H
 
 struct Memory {
-  int memory[100];
+  int m[100];
 };
 
 #endif
